@@ -22,3 +22,4 @@ _A React application that will check the weather for your current location or in
 ### Saturday, 8/27
 * 2:00-4:00 Finished ToDoApp with React Native and firebase
 * 6:00-9:00 bug: stuck on a gradle error
+![todoApp](./todo.gif)
