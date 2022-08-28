@@ -5,7 +5,6 @@
 #### Minimum Features:
 * Display data on the app
 * Making a search method to search for a location
-* 
 * Basic styling to make the site look presentable
 
 #### Tools, Frameworks, Libraries, APIs, Modules, and / or other resources:
